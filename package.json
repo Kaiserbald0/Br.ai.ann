@@ -1,0 +1,26 @@
+{
+  "name": "br.ai.ann",
+  "version": "0.0.1",
+  "description": "Br.ai.ann (pronunced braian) is a neural network with genetic algorithm and no backpropagation",
+  "main": "br.ai.ann.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kaiserbald0/bra.ia.n.git"
+  },
+  "keywords": [
+    "neural network",
+    "machine learning",
+    "genetic algorithm",
+    "sky net",
+    "ai"
+  ],
+  "author": "Kaiserbald0 <kaiserbald0@protonmail.ch>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kaiserbald0/Br.ai.ann/issues"
+  },
+  "homepage": "https://github.com/Kaiserbald0/Br.ai.ann#readme"
+}
