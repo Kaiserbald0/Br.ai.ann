@@ -3,7 +3,7 @@ Br.ai.ann (pronounced: braian) is a Neural Network experiment that evolves using
 
 At the moment Br.ai.ann can evolve to solve the XOR, to see Br.ai.ann in action:
 
-`node index.js`
+`node demos/xor/index.js`
 
 Don't be a n00b, try it out, fork it star it, whatever
 

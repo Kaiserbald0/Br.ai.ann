@@ -1,6 +1,6 @@
 {
   "name": "br.ai.ann",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Br.ai.ann (pronunced braian) is a neural network with genetic algorithm and no backpropagation",
   "main": "br.ai.ann.js",
   "scripts": {
